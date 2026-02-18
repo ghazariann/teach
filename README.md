@@ -1,20 +1,14 @@
-# Data Scientist
+# Teaching Portfolio
 
-## Teaching Experience
+## Courses
 
-- **Guest Lecture: YSU CS 22020**  
-  *Introduction to Data Science*, Fall 2020
+- **Machine Learning Engineering** | Yerevan State University, After-School Program
+  - [Course Repository](https://github.com/YSU-CS2020/MLOps_course)
 
----
+## Students
 
-### Student Table
-
-| Name | Email |  
-|------|-------|  
-|      |       |  
-|      |       |  
-|      |       |  
-|      |       |  
-|      |       |  
-
----
+| Name          | Portfolio                          |
+|---------------|------------------------------------|
+|               |                                    |
+|               |                                    |
+|               |                                    |
