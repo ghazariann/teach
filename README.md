@@ -1,4 +1,4 @@
-# Teaching Portfolio
+# Teaching Profile
 
 ## Courses
 
