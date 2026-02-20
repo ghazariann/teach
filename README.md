@@ -1,4 +1,4 @@
-# Teaching Portofio
+# Teaching Portfolio
 
 ## Courses
 
