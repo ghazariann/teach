@@ -10,5 +10,5 @@
 | Name              | Portfolio                          |
 |------------------ |------------------------------------|
 | Vahagn Ghazaryan  | http://ghazariann.github.io/teach  |
-|                   |                                    |
+| Gor Khumaryan     | https://gorkhumaryan.github.io/    |
 |                   |                                    |
